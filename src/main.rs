@@ -15,9 +15,9 @@ fn main() -> Result<(), io::Error> {
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝
     "
     );
-    println!("github =>   https://github.com/hamdymohamedak ");
+    println!("Github =>   https://github.com/hamdymohamedak ");
     println!("Linkedin => https://www.linkedin.com/in/hamdy-askander-b67b32246/ ");
-    println!("github =>   https://www.facebook.com/hamdy.elgokar.5 ");
+    println!("Facebook =>   https://www.facebook.com/hamdy.elgokar.5 ");
     println!(r"
     ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣠⣀⣀⣀⣠⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
