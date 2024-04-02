@@ -8,4 +8,4 @@ and select it from tooln `npm start` to start the development server.
 
 ## Screenshots
 
-![Screenshot](base64.png){:height="300px" width="auto"}
+![Screenshot](base64.png)
